@@ -27,4 +27,4 @@ jobs:
 
       - run: |
           javac HelloWorld.java
-          java HelloWorld
+          java HelloWorld.java
